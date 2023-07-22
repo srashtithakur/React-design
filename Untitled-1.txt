@@ -1,0 +1,6 @@
+<div class="footerarea__right__wraper footerarea__inner">
+                                <div class="footerarea__heading">
+                                    <h3>Recent Posth</h3>
+                                </div>
+                               
+                            </div>
